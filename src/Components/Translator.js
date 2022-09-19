@@ -4,7 +4,7 @@ const Translator = () => {
 
     return (
         <div>
-            <h1>hello</h1>
+            <p className='text-white font-extrabold text-5xl'>Voice Translator</p>
 
         </div>
     );
